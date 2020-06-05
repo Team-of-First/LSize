@@ -1,0 +1,5 @@
+﻿name: comdban
+author: 플그러
+main: comdban\comdban
+api: [4.0.0]
+version: 1.0.0
